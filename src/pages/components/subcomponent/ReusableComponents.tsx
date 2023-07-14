@@ -1,4 +1,3 @@
-import Button from '@mui/material/Button'
 import React from 'react'
 
 interface BodyButtonProps {
@@ -7,7 +6,7 @@ interface BodyButtonProps {
 
 export function Explorebutton() {
   return (   
-<Button className="rounded-full mt-5" variant="outlined">Explore</Button>
+<button className='border-2 rounded-full mt-5 px-4 py-1 text-[#0744C3] border-[#0744C3]'>Explore</button>
   )
 }
 
