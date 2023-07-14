@@ -14,12 +14,12 @@ export default function Services() {
         <rect x="28.3109" y="58" width="24" height="3" rx="1.5" fill="white" />
         <defs>
           <linearGradient id="paint0_linear_1_44" x1="51.5702" y1="8" x2="51.5702" y2="64" gradientUnits="userSpaceOnUse">
-            <stop stop-color="#7354F8" />
-            <stop offset="1" stop-color="#4D2FCB" />
+            <stop stopColor="#7354F8" />
+            <stop offset="1" stopColor="#4D2FCB" />
           </linearGradient>
           <linearGradient id="paint1_linear_1_44" x1="40.3109" y1="15" x2="40.3109" y2="71" gradientUnits="userSpaceOnUse">
-            <stop stop-color="#7354F8" />
-            <stop offset="1" stop-color="#4D2FCB" />
+            <stop stopColor="#7354F8" />
+            <stop offset="1" stopColor="#4D2FCB" />
           </linearGradient>
         </defs>
       </svg>
@@ -41,12 +41,12 @@ export default function Services() {
         <rect x="28" y="58" width="24" height="3" rx="1.5" fill="white" />
         <defs>
           <linearGradient id="paint0_linear_1_57" x1="51.2593" y1="8" x2="51.2593" y2="64" gradientUnits="userSpaceOnUse">
-            <stop stop-color="#54EEF8" />
-            <stop offset="1" stop-color="#2FA6CB" />
+            <stop stopColor="#54EEF8" />
+            <stop offset="1" stopColor="#2FA6CB" />
           </linearGradient>
           <linearGradient id="paint1_linear_1_57" x1="40" y1="15" x2="40" y2="71" gradientUnits="userSpaceOnUse">
-            <stop stop-color="#54EEF8" />
-            <stop offset="1" stop-color="#2FA6CB" />
+            <stop stopColor="#54EEF8" />
+            <stop offset="1" stopColor="#2FA6CB" />
           </linearGradient>
         </defs>
       </svg>
@@ -66,12 +66,12 @@ export default function Services() {
         <path d="M23.0426 63L17.6426 57.5L23.0426 52L24.3251 53.3063L20.1851 57.5229L24.3026 61.7167L23.0426 63ZM30.2426 63L28.9601 61.6938L33.1001 57.4771L28.9826 53.2833L30.2426 52L35.6426 57.5L30.2426 63Z" fill="#F38538" />
         <defs>
           <linearGradient id="paint0_linear_1_70" x1="48.6278" y1="16.2802" x2="36.0675" y2="63.156" gradientUnits="userSpaceOnUse">
-            <stop stop-color="#F4903A" />
-            <stop offset="1" stop-color="#F17834" />
+            <stop stopColor="#F4903A" />
+            <stop offset="1" stopColor="#F17834" />
           </linearGradient>
           <linearGradient id="paint1_linear_1_70" x1="40.6426" y1="21" x2="40.6426" y2="70" gradientUnits="userSpaceOnUse">
-            <stop stop-color="#F4903A" />
-            <stop offset="1" stop-color="#F17834" />
+            <stop stopColor="#F4903A" />
+            <stop offset="1" stopColor="#F17834" />
           </linearGradient>
         </defs>
       </svg>
@@ -91,16 +91,16 @@ export default function Services() {
         <path d="M69.3681 38.692C68.0516 44.8854 61.8334 48.8313 55.6399 47.5149L56.811 23C48.4978 21.233 23.2765 18.3267 23.2765 18.3267C25.1759 10.6389 32.8761 5.77617 40.6774 7.4344C44.7426 8.29849 48.1648 10.785 50.2637 14.3499C52.1469 13.7511 54.1185 13.6459 56.0429 14.055C62.0733 15.3368 65.994 21.166 64.9824 27.1883C68.4805 29.8582 70.2914 34.3478 69.3681 38.692Z" fill="url(#paint2_linear_1_83)" fillOpacity="0.2" />
         <defs>
           <linearGradient id="paint0_linear_1_83" x1="40.2563" y1="61.4375" x2="40.2563" y2="23.4844" gradientUnits="userSpaceOnUse">
-            <stop stop-color="#FFBEF9" />
-            <stop offset="1" stop-color="#FFF1FF" />
+            <stop stopColor="#FFBEF9" />
+            <stop offset="1" stopColor="#FFF1FF" />
           </linearGradient>
           <linearGradient id="paint1_linear_1_83" x1="40.3109" y1="68" x2="40.3109" y2="12" gradientUnits="userSpaceOnUse">
-            <stop stop-color="#A93AFF" />
-            <stop offset="1" stop-color="#FF81FF" />
+            <stop stopColor="#A93AFF" />
+            <stop offset="1" stopColor="#FF81FF" />
           </linearGradient>
           <linearGradient id="paint2_linear_1_83" x1="35.5067" y1="63.5867" x2="47.1498" y2="8.81041" gradientUnits="userSpaceOnUse">
-            <stop stop-color="#A93AFF" />
-            <stop offset="1" stop-color="#FF81FF" />
+            <stop stopColor="#A93AFF" />
+            <stop offset="1" stopColor="#FF81FF" />
           </linearGradient>
         </defs>
       </svg>
@@ -116,27 +116,27 @@ export default function Services() {
 
       <svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
         <path d="M62 30.5C62 36.9891 58.659 42.6978 53.6034 46C54.5 42 55.5 32 40.5 19.5C30.2827 19.5 25 40.7173 25 30.5C25 20.2827 33.2827 12 43.5 12C53.7173 12 62 20.2827 62 30.5Z" fill="url(#paint0_linear_1_97)" fillOpacity="0.2" />
-        <g clip-path="url(#clip0_1_97)">
+        <g clipPath="url(#clip0_1_97)">
           <path d="M39.9023 25.8164C37.4792 25.8164 35.5078 27.7878 35.5078 30.2109C35.5078 32.634 37.4792 34.6055 39.9023 34.6055C42.3254 34.6055 44.2969 32.634 44.2969 30.2109C44.2969 27.7878 42.3254 25.8164 39.9023 25.8164Z" fill="url(#paint1_linear_1_97)" />
-          <path fill-rule="evenodd" clip-rule="evenodd" d="M20.8594 33.1406C20.8594 38.5243 23.115 43.3831 26.7188 46.8499V44.8594C26.7188 40.8211 30.0047 37.5352 34.043 37.5352H39.9023H45.7617C49.8 37.5352 53.0859 40.8211 53.0859 44.8594V46.8499C56.6897 43.3831 58.9453 38.5243 58.9453 33.1406C58.9453 22.6407 50.4023 14 39.9023 14C29.4024 14 20.8594 22.6407 20.8594 33.1406ZM39.9023 37.5352C35.8641 37.5352 32.5781 34.2492 32.5781 30.2109C32.5781 26.1727 35.8641 22.8867 39.9023 22.8867C43.9406 22.8867 47.2266 26.1727 47.2266 30.2109C47.2266 34.2492 43.9406 37.5352 39.9023 37.5352Z" fill="url(#paint2_linear_1_97)" />
+          <path fillRule="evenodd" clipRule="evenodd" d="M20.8594 33.1406C20.8594 38.5243 23.115 43.3831 26.7188 46.8499V44.8594C26.7188 40.8211 30.0047 37.5352 34.043 37.5352H39.9023H45.7617C49.8 37.5352 53.0859 40.8211 53.0859 44.8594V46.8499C56.6897 43.3831 58.9453 38.5243 58.9453 33.1406C58.9453 22.6407 50.4023 14 39.9023 14C29.4024 14 20.8594 22.6407 20.8594 33.1406ZM39.9023 37.5352C35.8641 37.5352 32.5781 34.2492 32.5781 30.2109C32.5781 26.1727 35.8641 22.8867 39.9023 22.8867C43.9406 22.8867 47.2266 26.1727 47.2266 30.2109C47.2266 34.2492 43.9406 37.5352 39.9023 37.5352Z" fill="url(#paint2_linear_1_97)" />
           <path d="M50.4259 58.1406C51.0329 56.4393 52.6434 55.2109 54.5508 55.2109C56.4581 55.2109 58.0687 56.4393 58.6756 58.1406H64.9023V61.0703H58.6756C58.0687 62.7717 56.4581 64 54.5508 64C52.6434 64 51.0329 62.7717 50.4259 61.0703H44.0272C43.4203 62.7717 41.8097 64 39.9023 64C37.995 64 36.3844 62.7717 35.7775 61.0703H29.3787C28.7718 62.7717 27.1613 64 25.2539 64C23.3466 64 21.736 62.7717 21.1291 61.0703H15V58.1406H21.1291C21.736 56.4393 23.3466 55.2109 25.2539 55.2109C27.1613 55.2109 28.7718 56.4393 29.3787 58.1406H35.7775C36.2219 56.8947 37.2042 55.9163 38.452 55.4764L38.4417 52.076C35.2259 51.8258 32.2226 50.8149 29.6484 49.1616V44.8594C29.6484 42.4363 31.6199 40.4648 34.043 40.4648H45.7617C48.1848 40.4648 50.1562 42.4363 50.1562 44.8594V49.1616C47.5832 50.8141 44.5815 51.825 41.3672 52.0756V55.4806C42.6081 55.9235 43.5843 56.8997 44.0272 58.1406H50.4259Z" fill="url(#paint3_linear_1_97)" />
         </g>
         <defs>
           <linearGradient id="paint0_linear_1_97" x1="43.5" y1="49" x2="43.5" y2="12" gradientUnits="userSpaceOnUse">
-            <stop stop-color="#0AB35E" />
-            <stop offset="1" stop-color="#2ADD3C" />
+            <stop stopColor="#0AB35E" />
+            <stop offset="1" stopColor="#2ADD3C" />
           </linearGradient>
           <linearGradient id="paint1_linear_1_97" x1="39.9512" y1="64" x2="39.9512" y2="14" gradientUnits="userSpaceOnUse">
-            <stop stop-color="#0AB35E" />
-            <stop offset="1" stop-color="#2ADD3C" />
+            <stop stopColor="#0AB35E" />
+            <stop offset="1" stopColor="#2ADD3C" />
           </linearGradient>
           <linearGradient id="paint2_linear_1_97" x1="39.9512" y1="64" x2="39.9512" y2="14" gradientUnits="userSpaceOnUse">
-            <stop stop-color="#0AB35E" />
-            <stop offset="1" stop-color="#2ADD3C" />
+            <stop stopColor="#0AB35E" />
+            <stop offset="1" stopColor="#2ADD3C" />
           </linearGradient>
           <linearGradient id="paint3_linear_1_97" x1="39.9512" y1="64" x2="39.9512" y2="14" gradientUnits="userSpaceOnUse">
-            <stop stop-color="#0AB35E" />
-            <stop offset="1" stop-color="#2ADD3C" />
+            <stop stopColor="#0AB35E" />
+            <stop offset="1" stopColor="#2ADD3C" />
           </linearGradient>
           <clipPath id="clip0_1_97">
             <rect width="50" height="50" fill="white" transform="translate(15 14)" />
@@ -160,12 +160,12 @@ export default function Services() {
         <path d="M57.8002 19H23.578C20.8891 19 18.6891 21.2 18.6891 23.8889V58.1111C18.6891 60.8 20.8891 63 23.578 63H57.8002C60.4891 63 62.6891 60.8 62.6891 58.1111V23.8889C62.6891 21.2 60.4891 19 57.8002 19ZM43.1335 29.0222L45.8224 26.3333L49.2446 29.7556L52.6669 26.3333L55.3558 29.0222L51.9335 32.4444L55.3558 35.8667L52.6669 38.5556L49.2446 35.1333L45.8224 38.5556L43.1335 35.8667L46.5558 32.4444L43.1335 29.0222ZM26.5113 30.4889H38.7335V34.1556H26.5113V30.4889ZM39.4669 50.7778H34.578V55.6667H30.9113V50.7778H26.0224V47.1111H30.9113V42.2222H34.578V47.1111H39.4669V50.7778ZM55.3558 53.7111H43.1335V50.0444H55.3558V53.7111ZM55.3558 47.8444H43.1335V44.1778H55.3558V47.8444Z" fill="url(#paint1_linear_1_109)" />
         <defs>
           <linearGradient id="paint0_linear_1_109" x1="49.3563" y1="15.5741" x2="40.2082" y2="58.6126" gradientUnits="userSpaceOnUse">
-            <stop stop-color="#F85E5E" />
-            <stop offset="1" stop-color="#DA247B" />
+            <stop stopColor="#F85E5E" />
+            <stop offset="1" stopColor="#DA247B" />
           </linearGradient>
           <linearGradient id="paint1_linear_1_109" x1="40.6891" y1="19" x2="40.6891" y2="63" gradientUnits="userSpaceOnUse">
-            <stop stop-color="#F85E5E" />
-            <stop offset="1" stop-color="#DA247B" />
+            <stop stopColor="#F85E5E" />
+            <stop offset="1" stopColor="#DA247B" />
           </linearGradient>
         </defs>
       </svg>
