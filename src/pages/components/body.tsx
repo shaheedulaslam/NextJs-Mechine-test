@@ -27,7 +27,7 @@ export default function Body() {
         </picture>
       </div>
       <p className="text-3xl tracking-tight text-slate-800 font-bold text-center mt-5">Dubai</p>
-      <p className="text-lg text-center text-gray-500 font-light mt-2">Remote Visa for Dubai</p>
+      <p className="text-lg text-center text-gray-500 font-light mt-2">Remote visa for Dubai</p>
     </div>
 
     <div>
@@ -37,12 +37,12 @@ export default function Body() {
         </picture>
       </div>
       <p className="text-3xl tracking-tight text-slate-800 font-bold text-center mt-5">Germany</p>
-      <p className="text-lg text-center text-gray-500 font-light mt-2">Remote Visa for Germany</p>
+      <p className="text-lg text-center text-gray-500 font-light mt-2">Remote visa for Germany</p>
     </div>
 </div>
 
 <div className="flex justify-center mt-8">
-  <BodyButton value='Explore all Visas'/>
+  <BodyButton value='Explore all visas'/>
 </div>
 </div>
 {/* interview.....content */}

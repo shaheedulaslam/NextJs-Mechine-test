@@ -67,16 +67,16 @@ export default function Hero() {
 
           <div className="flex justify-center">
             <div className="text-center font-medium">
-              <p className="mt-6 lg:text-2xl leading-8 text-gray-500" style={{ letterSpacing: '2px' }}>
+              <p className="mt-6 lg:text-2xl leading-8 text-gray-500 tracking-widest">
                 Oye startup is here for the emerging startup ideas and
               </p>
-              <p className="lg:text-2xl leading-8 text-gray-500" style={{ letterSpacing: '2px' }}>
+              <p className="lg:text-2xl leading-8 text-gray-500 tracking-widest">
                 brilliant upcoming entrepreneurs
               </p>
             </div>
           </div>
 
-          <p className="mt-10 text-xl text-gray-400">Let's Explore</p>
+          <p className="mt-10 text-2xl text-gray-400">Let's explore</p>
           <a href="#" className="text-xl font-semibold leading-6 text-gray-400">
             <span aria-hidden="true"><CategoryIcon /></span>
           </a>

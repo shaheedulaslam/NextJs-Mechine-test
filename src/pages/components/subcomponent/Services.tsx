@@ -25,7 +25,7 @@ export default function Services() {
       </svg>
 
       <h2 className="mt-6 text-xl font-semibold">
-        Remote Work Visa{' '}
+        Remote work visa{' '}
       </h2>
       <ServiceParagraph />
       <Explorebutton />
@@ -52,7 +52,7 @@ export default function Services() {
       </svg>
 
       <h2 className={`mt-6 text-xl font-semibold`}>
-        StartUp Visa{' '}
+        Startup visa{' '}
       </h2>
       <StartUpVisaParagrapgh />
       <Explorebutton />
@@ -77,7 +77,7 @@ export default function Services() {
       </svg>
 
       <h2 className={`mt-6 text-xl font-semibold`}>
-        Meta Tags{' '}
+        Meta tags{' '}
       </h2>
       <ServiceParagraph />
       <Explorebutton />
@@ -106,7 +106,7 @@ export default function Services() {
       </svg>
 
       <h2 className={`mt-6 text-xl font-semibold`}>
-        Public API List{' '}
+        Public api list{' '}
       </h2>
       <StartUpVisaParagrapgh />
       <Explorebutton />
